@@ -95,7 +95,7 @@ Vindhya Academy Higher Secondary School
 ## 🧩 Problem Solving & Practice
 
 - 🟡 **CodeChef** — DSA practice
-- 🔵 **LeetCode** — Interview preparation
+- 🔵 **LeetCode** — Coding Practice for Companies 
 - 🧠 Focus Areas: Arrays, Strings, Recursion, OOPs, Time & Space Complexity
 
 ---
