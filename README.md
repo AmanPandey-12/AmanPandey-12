@@ -4,7 +4,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&duration=2000&pause=600&color=58A6FF&center=true&vCenter=true&width=600&lines=Aman+Pandey;Aman+Pandey;Aman+Pandey;Aman+Pandey)](https://git.io/typing-svg)
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&duration=2000&pause=600&color=58A6FF&center=true&vCenter=true&width=600&lines=Aman+Pandey;;Hello;こんにちは;Bonjour;)](https://git.io/typing-svg)
 
 <br/>
 
