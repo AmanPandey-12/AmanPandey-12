@@ -1,138 +1,168 @@
-<!-- ======================================================
-                        HEADER
-====================================================== -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    AMAN PANDEY — README                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<h1 align="center">Aman Pandey 🚀</h1>
-<h3 align="center">Java Developer | DSA Focused | B.Tech CSE Student</h3>
+<div align="center">
 
-<p align="center">
-  <b>Building strong fundamentals. Writing clean code. Solving real problems.</b>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=Aman+Pandey;Hello;こんにちは;Bonjour)](https://git.io/typing-svg)
 
-<p align="center">
-  📍 Bhopal, India &nbsp; | &nbsp; 🎯 Future High-Impact Software Engineer
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=Aman+Pandey;Aman_Pandey;アマン・パンディ;Aman+Pandey)](https://git.io/typing-svg)
 
----
+<br/>
 
-## 👨‍💻 About Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-pandey-a26b78294/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Aman_Pandey12/)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/amanpandey01)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amanpandey.1205r@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/amanpandey.1)
 
-I am a **B.Tech Computer Science student (CGPA: 8.11)** passionate about building scalable software systems and solving complex problems.
+[![Profile Views](https://komarev.com/ghpvc/?username=AmanPandey-12&style=flat-square&color=58a6ff&label=Profile+Views)](https://github.com/AmanPandey-12)
 
-My core strength lies in:
-
-- 💻 **Java Programming**
-- 🧠 **Data Structures & Algorithms**
-- 🌐 **Frontend Development**
-
-I believe in mastering fundamentals, maintaining consistency, and writing clean, maintainable code that creates real-world impact.
-
-Currently focused on:
-- Strengthening advanced DSA concepts
-- Building real-world projects
-- Preparing for product-based company placements
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## `$ whoami`
 
-### 💻 Programming
-- Java (OOP, Collections, Exception Handling)
-- Python (Basics + ML Libraries)
+```java
+public class AmanPandey {
 
-### 🧠 Data Structures & Algorithms
-- Arrays
-- Strings
-- Recursion
-- Sorting & Searching
-- Time & Space Complexity
-- Object-Oriented Programming
+    final String name     = "Aman Pandey";
+    final String location = "Bhopal, India";
+    final String degree   = "B.Tech — CGPA 8.11";
+    final String goal     = "Become a High-Impact Software Engineer";
+
+    final String[] focus = {
+        "Java & Object-Oriented Design",
+        "Data Structures & Algorithms",
+        "Frontend Web Development"
+    };
+
+    final String[] currentlyLearning = {
+        "Advanced DSA Problem Solving",
+        "System Design Fundamentals",
+        "JavaScript — DOM & ES6+"
+    };
+
+    void motto() {
+        System.out.println("Write better code, every single day.");
+    }
+}
+```
+
+---
+
+## ⚡ Tech Stack
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### 🌐 Frontend
-- HTML5
-- CSS3
-- JavaScript
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
 
-### ☁️ Tools & Platforms
-- Git & GitHub
-- VS Code
-- Oracle
-- Azure (Basics)
+### 🧠 Data & ML
+![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=flat-square&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 
----
-
-## 📂 Featured Projects
-
-### 🔹 Personal Portfolio Website
-A responsive portfolio website showcasing my projects, skills, and journey as a developer.
-
-**Tech Used:** HTML, CSS, JavaScript  
-🔗 GitHub: https://github.com/AmanPandey-12/Portfolio  
+### ☁️ Cloud & Tools
+![Azure](https://img.shields.io/badge/Azure-%230072C6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 🔹 Face Detection Application
-A Machine Learning based face detection system built to detect and recognize faces using computer vision techniques.
+## 🚀 Projects
 
-**Tech Used:** Python, OpenCV, ML Libraries  
-🔗 GitHub: #  
+<table width="100%">
+<thead>
+<tr>
+<th align="left">Project</th>
+<th align="left">Description</th>
+<th align="left">Stack</th>
+<th align="left">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>🌐 Portfolio Website</b></td>
+<td>Personal portfolio showcasing my skills, projects, and development journey.</td>
+<td><code>HTML</code> <code>CSS</code> <code>JavaScript</code></td>
+<td><a href="https://github.com/AmanPandey-12/Portfolio">View →</a></td>
+</tr>
+<tr>
+<td><b>👁️ Face Detection App</b></td>
+<td>Real-time face detection application built using computer vision and machine learning techniques.</td>
+<td><code>Python</code> <code>OpenCV</code> <code>ML</code></td>
+<td><code>Coming Soon</code></td>
+</tr>
+</tbody>
+</table>
 
 ---
 
-## 🏆 Coding Profiles
+## 🧩 Problem Solving
 
-- 🟡 CodeChef:  
-  https://www.codechef.com/users/amanpandey01  
+> Consistency over intensity. One problem at a time.
 
-- 🔵 LeetCode:  
-  https://leetcode.com/u/Aman_Pandey12/  
+| Platform | Purpose | Profile |
+|----------|---------|---------|
+| 🔵 **LeetCode** | Interview Preparation & Company Problems | [Aman_Pandey12](https://leetcode.com/u/Aman_Pandey12/) |
+| 🟡 **CodeChef** | Competitive Programming & Ratings | [amanpandey01](https://www.codechef.com/users/amanpandey01) |
 
-Focused on solving problems related to Arrays, Strings, Recursion, OOPs, and optimizing time & space complexity.
-
----
-
-## 🎓 Education
-
-**Bachelor of Technology (B.Tech) – Computer Science**  
-CGPA: **8.11**
-
----
-
-## 📜 Certifications
-
-- ✔️ Oracle 2025  
-- ✔️ IBM AI Skilled  
-- ✔️ #  
+**Active Focus Areas**
+- Arrays · Strings · Linked Lists · Trees · Recursion
+- Sorting & Searching · Dynamic Programming (Learning Phase)
+- OOP Design · Time & Space Complexity Analysis
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AmanPandey-12&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=AmanPandey-12&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanPandey-12&theme=tokyonight&hide_border=true&layout=compact"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmanPandey-12&theme=github_dark&hide_border=true&show_icons=true&rank_icon=github&include_all_commits=true)
 
----
+![Streak](https://nirzak-streak-stats.vercel.app/?user=AmanPandey-12&theme=github_dark&hide_border=true)
 
-## 🤝 Connect With Me
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanPandey-12&theme=github_dark&hide_border=true&layout=compact&langs_count=6)
 
-- 📧 Email: amanpandey.1205r@gmail.com  
-- 🔗 LinkedIn: https://linkedin.com/in/aman-pandey-a26b78294/  
-- 📸 Instagram: https://instagram.com/amanpandey.1  
+</div>
 
 ---
 
-## 💡 Personal Philosophy
+## 🎓 Education
 
-> "Write better code than yesterday. Improve 1% every day."
+| Qualification | Institution | Score |
+|--------------|-------------|-------|
+| **B.Tech (CSE)** | Technocrats Institute of Technology, Bhopal | CGPA **8.11** |
+| **Higher Secondary (12th)** | Vindhya Academy Higher Secondary School | **83%** |
 
 ---
 
-<p align="center">
-  ⭐ Always learning. Always building. Always improving.
-</p>
+## 💼 Soft Skills
+
+`Teamwork` · `Adaptability` · `Time Management` · `Growth Mindset` · `Clean Code Advocate`
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════╗
+║  "Write better code than yesterday.              ║
+║       Improve 1% every day."                     ║
+║                     — Aman Pandey                ║
+╚══════════════════════════════════════════════════╝
+```
+
+**Open to internships, collaborations, and open-source contributions.**  
+Let’s build something impactful together.
+
+⭐ If you find my work valuable, consider starring a repository!
+
+</div>
