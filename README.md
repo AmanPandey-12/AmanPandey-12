@@ -135,9 +135,9 @@
 
 ```
 ╔══════════════════════════════════════════════════╗
-║  Code with clarity. Build with purpose.         ║
-║  Improve 1% every single day.                   ║
-║                     — Aman Pandey               ║
+║  "Code with clarity. Build with purpose.         ║
+║       Improve 1% every single day."              ║
+║                     — Aman Pandey                ║
 ╚══════════════════════════════════════════════════╝
 ```
 
