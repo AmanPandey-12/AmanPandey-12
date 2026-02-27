@@ -4,9 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=Aman+Pandey;Hello;こんにちは;Bonjour)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=Aman+Pandey;Aman_Pandey;アマン・パンディ;Aman+Pandey)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&duration=2000&pause=600&color=58A6FF&center=true&vCenter=true&width=600&lines=Aman+Pandey;Aman+Pandey;Aman+Pandey;Aman+Pandey)](https://git.io/typing-svg)
 
 <br/>
 
@@ -22,29 +20,29 @@
 
 ---
 
-## `$ whoami`
+## 🖥 `$ whoami`
 
 ```java
 public class AmanPandey {
 
-    final String name     = "Aman Pandey";
-    final String location = "Bhopal, India";
-    final String degree   = "B.Tech — CGPA 8.11";
-    final String goal     = "Become a High-Impact Software Engineer";
+    private final String name     = "Aman Pandey";
+    private final String location = "Bhopal, India";
+    private final String degree   = "B.Tech — CGPA 8.11";
+    private final String goal     = "Become a High-Impact Software Engineer";
 
-    final String[] focus = {
+    private final String[] focus = {
         "Java & Object-Oriented Design",
         "Data Structures & Algorithms",
         "Frontend Web Development"
     };
 
-    final String[] currentlyLearning = {
+    private final String[] currentlyLearning = {
         "Advanced DSA Problem Solving",
         "System Design Fundamentals",
         "JavaScript — DOM & ES6+"
     };
 
-    void motto() {
+    public void motto() {
         System.out.println("Write better code, every single day.");
     }
 }
@@ -115,9 +113,9 @@ public class AmanPandey {
 | 🟡 **CodeChef** | Competitive Programming & Ratings | [amanpandey01](https://www.codechef.com/users/amanpandey01) |
 
 **Active Focus Areas**
-- Arrays · Strings · Linked Lists · Trees · Recursion
-- Sorting & Searching · Dynamic Programming (Learning Phase)
-- OOP Design · Time & Space Complexity Analysis
+- Arrays · Strings · Linked Lists · Trees · Recursion  
+- Sorting & Searching · Dynamic Programming (Learning Phase)  
+- OOP Design · Time & Space Complexity Analysis  
 
 ---
 
@@ -125,11 +123,11 @@ public class AmanPandey {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmanPandey-12&theme=github_dark&hide_border=true&show_icons=true&rank_icon=github&include_all_commits=true)
+<img src="https://github-readme-stats.vercel.app/api?username=AmanPandey-12&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=AmanPandey-12&theme=github_dark&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=AmanPandey-12&theme=tokyonight&hide_border=true" height="170"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanPandey-12&theme=github_dark&hide_border=true&layout=compact&langs_count=6)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanPandey-12&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
 
 </div>
 
@@ -154,9 +152,9 @@ public class AmanPandey {
 
 ```
 ╔══════════════════════════════════════════════════╗
-║  "Write better code than yesterday.              ║
-║       Improve 1% every day."                     ║
-║                     — Aman Pandey                ║
+║  Code with clarity. Build with purpose.         ║
+║  Improve 1% every single day.                   ║
+║                     — Aman Pandey               ║
 ╚══════════════════════════════════════════════════╝
 ```
 
