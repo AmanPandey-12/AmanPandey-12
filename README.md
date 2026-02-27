@@ -19,7 +19,18 @@
 </div>
 
 ---
-## 🚀 About Me - 🎓 **Bachelor of Technology (B.Tech)** — CGPA **8.11** - 💻 Strong foundation in **Java & DSA** - 🌐 Learning **Frontend Development (HTML, CSS, JavaScript)** - 🧠 Believer in fundamentals, consistency, and clean code - 📍 **Bhopal, India** - 🎯 Goal: Become a **high-impact software engineer**
+
+## 🚀 About Me
+
+| | |
+|---|---|
+| 🎓 | **B.Tech (CSE)** — CGPA **8.11** |
+| 💻 | Strong foundation in **Java & DSA** |
+| 🌐 | Learning **Frontend Development** — HTML, CSS, JavaScript |
+| 🧠 | Believer in fundamentals, consistency, and clean code |
+| 📍 | **Bhopal, India** |
+| 🎯 | Goal: Become a **High-Impact Software Engineer** |
+
 ---
 
 ## ⚡ Tech Stack
