@@ -19,35 +19,7 @@
 </div>
 
 ---
-
-## 🖥 `$ whoami`
-
-```java
-public class AmanPandey {
-
-    private final String name     = "Aman Pandey";
-    private final String location = "Bhopal, India";
-    private final String degree   = "B.Tech — CGPA 8.11";
-    private final String goal     = "Become a High-Impact Software Engineer";
-
-    private final String[] focus = {
-        "Java & Object-Oriented Design",
-        "Data Structures & Algorithms",
-        "Frontend Web Development"
-    };
-
-    private final String[] currentlyLearning = {
-        "Advanced DSA Problem Solving",
-        "System Design Fundamentals",
-        "JavaScript — DOM & ES6+"
-    };
-
-    public void motto() {
-        System.out.println("Write better code, every single day.");
-    }
-}
-```
-
+## 🚀 About Me - 🎓 **Bachelor of Technology (B.Tech)** — CGPA **8.11** - 💻 Strong foundation in **Java & DSA** - 🌐 Learning **Frontend Development (HTML, CSS, JavaScript)** - 🧠 Believer in fundamentals, consistency, and clean code - 📍 **Bhopal, India** - 🎯 Goal: Become a **high-impact software engineer**
 ---
 
 ## ⚡ Tech Stack
