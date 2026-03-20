@@ -1,57 +1,60 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aman%20Pandey&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20in%20the%20Making%20%7C%20DSA%20%7C%20ML%20%7C%20Cloud&descAlignY=58&descSize=16&animation=fadeIn"/>
+<!-- ══════════════════ HEADER BANNER ══════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Aman%20Pandey&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=🚀%20Software%20Engineer%20in%20the%20Making%20%7C%20DSA%20·%20ML%20·%20Cloud&descAlignY=58&descSize=17&animation=fadeIn"/>
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=👋+Hey+there!+I'm+Aman+Pandey;💻+B.Tech+CSE+%7C+CGPA+8.11;🔍+DSA+%7C+Java+%7C+ML+%7C+Frontend;🚀+Building+toward+High-Impact+Engineering;🌱+Learning+every+single+day...)](https://git.io/typing-svg)
+<!-- ══════════════════ TYPING ANIMATION ══════════════════ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=680&lines=👋+Hey+there!+I'm+Aman+Pandey;💻+B.Tech+CSE+%7C+CGPA+8.11;🔍+DSA+%7C+Java+%7C+ML+%7C+Frontend;🚀+Building+toward+High-Impact+Engineering;🌱+Learning+every+single+day...)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Social Badges -->
+<!-- ══════════════════ SOCIAL BADGES ══════════════════ -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-pandey-a26b78294/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Aman_Pandey12/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/amanpandey01)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanpandey.1205r@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/AmanPandey-12/Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/AmanPandey-12/Portfolio)
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=AmanPandey-12&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS)](https://github.com/AmanPandey-12)
-[![GitHub followers](https://img.shields.io/github/followers/AmanPandey-12?style=for-the-badge&color=302b63&labelColor=0f0c29&logo=github)](https://github.com/AmanPandey-12)
+[![GitHub followers](https://img.shields.io/github/followers/AmanPandey-12?style=for-the-badge&color=7C3AED&labelColor=1a1a2e&logo=github&logoColor=white)](https://github.com/AmanPandey-12)
 
 </div>
 
----
+<br/>
 
-## 🧑‍💻 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-```java
-public class AmanPandey {
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px"> &nbsp; About Me
 
-    String name        = "Aman Pandey";
-    String degree      = "B.Tech (CSE) — CGPA: 8.11";
-    String location    = "Bhopal, India 📍";
-    String email       = "amanpandey.1205r@gmail.com";
+<img align="right" alt="Coding GIF" width="290" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-    String[] currentFocus = {
-        "Mastering DSA with Java",
-        "Building Frontend Projects",
-        "Exploring ML & Deep Learning",
-        "Azure & Oracle Cloud Certifications"
-    };
+&nbsp;&nbsp;🎓 &nbsp; **B.Tech CSE** — Technocrats Institute of Technology, Bhopal &nbsp;|&nbsp; CGPA **8.11**
 
-    String[] funFacts = {
-        "I debug with print statements first 🐛",
-        "Dark mode is non-negotiable 🌙",
-        "I believe in 1% improvement daily 📈"
-    };
+&nbsp;&nbsp;📍 &nbsp; Based in **Bhopal, India**
 
-    String goal = "Become a High-Impact Software Engineer 🚀";
-}
-```
+&nbsp;&nbsp;💻 &nbsp; Strong foundation in **Java & Data Structures & Algorithms**
 
----
+&nbsp;&nbsp;🌐 &nbsp; Building projects with **HTML · CSS · JavaScript**
+
+&nbsp;&nbsp;🧠 &nbsp; Exploring **Machine Learning & Deep Learning** with PyTorch
+
+&nbsp;&nbsp;☁️ &nbsp; Studying **Azure & Oracle Cloud** platforms
+
+&nbsp;&nbsp;🎯 &nbsp; Goal: Become a **High-Impact Software Engineer**
+
+&nbsp;&nbsp;🐛 &nbsp; I debug with `System.out.println` first — no shame!
+
+&nbsp;&nbsp;🌙 &nbsp; Dark mode is **non-negotiable**
+
+&nbsp;&nbsp;📈 &nbsp; Believer in **1% improvement every single day**
+
+&nbsp;&nbsp;📬 &nbsp; **amanpandey.1205r@gmail.com**
+
+<br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## ⚡ Tech Stack
 
@@ -65,7 +68,7 @@ public class AmanPandey {
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Responsive_Design-0081CB?style=for-the-badge&logo=css3&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-0081CB?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🧠 Data Science & ML
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -85,191 +88,218 @@ public class AmanPandey {
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Featured Projects
 
 <div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 Portfolio Website
-> Personal developer portfolio with smooth UI, animations, and a showcase of all my projects and skills.
+<h3 align="center">🌐 Portfolio Website</h3>
 
-**Tech Stack:** `HTML` `CSS` `JavaScript`
+<p align="center">
+  <a href="https://github.com/AmanPandey-12/Portfolio">
+    <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-**Features:**
-- 🎨 Clean & responsive UI
-- ⚡ Smooth scroll animations
-- 📱 Mobile-first design
-- 🌙 Dark aesthetic theme
+Personal developer portfolio showcasing my skills, projects, and development journey with a clean, responsive UI.
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmanPandey-12/Portfolio)
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+✅ Responsive Design &nbsp;&nbsp; ✅ Scroll Animations<br/>
+✅ Mobile-First &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✅ Dark Theme
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 👁️ Face Detection App
-> Real-time face detection system using computer vision and ML pipeline with live camera feed support.
+<h3 align="center">👁️ Face Detection App</h3>
 
-**Tech Stack:** `Python` `OpenCV` `ML`
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Coming%20Soon-orange?style=for-the-badge"/>
+</p>
 
-**Features:**
-- 🎥 Real-time detection
-- 🧠 Haar Cascade / DNN model
-- 📊 Confidence scoring
-- 🔲 Bounding box rendering
+Real-time face detection system using computer vision and ML pipeline with live camera feed support.
 
-![Status](https://img.shields.io/badge/Status-Coming_Soon-orange?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+</p>
+
+🎥 Real-time Detection &nbsp;&nbsp; 🧠 DNN Model<br/>
+📊 Confidence Scoring &nbsp;&nbsp; 🔲 Bounding Box
 
 </td>
 </tr>
 </table>
 </div>
 
-> 🔨 **More projects coming soon!** I'm actively building and pushing new repositories.
+> 🔨 **More projects dropping soon!** I'm actively building and pushing to GitHub.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🧩 Competitive Programming & DSA
 
 <div align="center">
 
 | 🏆 Platform | 🎯 Purpose | 🔗 Profile | 📈 Status |
-|------------|-----------|-----------|----------|
+|:-----------:|:---------:|:---------:|:--------:|
 | ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) **LeetCode** | Interview Prep & Problem Solving | [Aman_Pandey12](https://leetcode.com/u/Aman_Pandey12/) | 🟢 Active |
-| ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) **CodeChef** | Competitive Programming & Ratings | [amanpandey01](https://www.codechef.com/users/amanpandey01) | 🟢 Active |
+| ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) **CodeChef** | Competitive Programming | [amanpandey01](https://www.codechef.com/users/amanpandey01) | 🟢 Active |
+
+<br/>
+
+| 🟣 **Core DSA** | 🔵 **Algorithms** | 🟡 **Advanced** | 🟢 **OOP & Design** |
+|:---:|:---:|:---:|:---:|
+| Arrays · Strings | Sorting · Searching | Dynamic Programming | SOLID Principles |
+| Linked Lists · Trees | Binary Search | Backtracking | Design Patterns |
+| Graphs · Recursion | Two Pointers | Greedy (Learning) | Clean Code |
 
 </div>
 
-### 📚 Active Focus Areas
-
-```
-🟣 Core DSA            →  Arrays, Strings, Linked Lists, Trees, Graphs
-🔵 Algorithms          →  Sorting, Searching, Binary Search, Two Pointers
-🟡 Advanced Topics     →  Dynamic Programming, Backtracking (In Progress)
-🟢 OOP & Design        →  SOLID Principles, Design Patterns, Clean Code
-⚪ Complexity          →  Big-O Analysis, Space-Time Tradeoffs
-```
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<!-- GitHub Stats - Using stats.quine.sh for reliable, auto-updating stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmanPandey-12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9"/>
+<!-- Stats + Languages side by side -->
+<a href="https://github.com/AmanPandey-12">
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=AmanPandey-12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=C084FC&text_color=E2D9F3&border_radius=12&v=2"/>
+</a>
+<a href="https://github.com/AmanPandey-12">
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanPandey-12&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2D9F3&border_radius=12&v=2"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanPandey-12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9"/>
+<br/><br/>
+
+<!-- ✅ Streak — fixed URL with cache-busting date format -->
+<a href="https://github.com/AmanPandey-12">
+  <img width="60%" src="https://streak-stats.demolab.com?user=AmanPandey-12&hide_border=true&background=0D1117&ring=A78BFA&fire=C084FC&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=9CA3AF&currStreakNum=E2D9F3&sideNums=E2D9F3&stroke=7C3AED&border_radius=12&date_format=j%20M%5B%20Y%5D"/>
+</a>
+
+<br/><br/>
+
+<!-- Activity Graph — full width -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanPandey-12&bg_color=0D1117&color=C084FC&line=7C3AED&point=A78BFA&area_color=7C3AED&area=true&hide_border=true&radius=12&custom_title=Aman's%20Contribution%20Graph" width="96%"/>
+
+<br/>
+
+<!-- Live stat pills — pull directly from GitHub API -->
+![GitHub last commit](https://img.shields.io/github/last-commit/AmanPandey-12/Portfolio?style=flat-square&color=A78BFA&labelColor=0D1117&label=Last%20Commit%20on%20Portfolio)
+![GitHub repo count](https://img.shields.io/badge/dynamic/json?color=A78BFA&labelColor=0D1117&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAmanPandey-12&style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/AmanPandey-12?style=flat-square&color=C084FC&labelColor=0D1117&label=Total%20Stars)
 
 </div>
 
-<div align="center">
-
-<!-- ✅ FIXED Streak Stats: uses github-readme-streak-stats with cache-busting -->
-<img src="https://streak-stats.demolab.com?user=AmanPandey-12&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&dates=c9d1d9&stroke=302b63" height="180em"/>
-
-</div>
-
-<div align="center">
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanPandey-12&bg_color=0D1117&color=A78BFA&line=7C3AED&point=A78BFA&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AmanPandey-12&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AmanPandey-12&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" width="96%"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎓 Education
 
 <div align="center">
 
 | 🎓 Qualification | 🏛️ Institution | 📊 Score |
-|-----------------|---------------|---------|
-| **B.Tech — Computer Science & Engineering** | Technocrats Institute of Technology, Bhopal | CGPA **8.11** |
-| **Higher Secondary (12th Grade)** | Vindhya Academy Higher Secondary School | **83%** |
+|:----------------|:--------------|:-------:|
+| **B.Tech — Computer Science & Engineering** | Technocrats Institute of Technology, Bhopal | CGPA **8.11** ⭐ |
+| **Higher Secondary (12th Grade)** | Vindhya Academy Higher Secondary School | **83%** ✅ |
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌱 Currently Learning
 
 <div align="center">
 
-```
-📌  React.js        →  Component architecture, hooks, state management
-📌  Node.js         →  Backend basics, REST APIs
-📌  System Design   →  Scalability, databases, architecture patterns
-📌  ML/DL           →  Neural networks, model training with PyTorch
-📌  Azure           →  Cloud fundamentals, deployment
-```
+| 🔧 Technology | 📖 What I'm Exploring | 📊 Stage |
+|:------------:|:--------------------:|:--------:|
+| ⚛️ React.js | Components · Hooks · State Management | 🟣 Beginner |
+| 🟢 Node.js | Backend Basics · REST APIs | 🔵 Exploring |
+| 🏗️ System Design | Scalability · Architecture Patterns | 🔵 Exploring |
+| 🔥 Deep Learning | Neural Networks · Model Training | 🟡 Beginner |
+| ☁️ Azure | Cloud Fundamentals · Deployment | 🟠 Beginner |
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💡 Soft Skills
 
 <div align="center">
 
-![Teamwork](https://img.shields.io/badge/🤝_Teamwork-302b63?style=for-the-badge)
-![Adaptability](https://img.shields.io/badge/🌊_Adaptability-302b63?style=for-the-badge)
-![Time_Management](https://img.shields.io/badge/⏱_Time_Management-302b63?style=for-the-badge)
-![Growth_Mindset](https://img.shields.io/badge/📈_Growth_Mindset-302b63?style=for-the-badge)
-![Clean_Code](https://img.shields.io/badge/✨_Clean_Code-302b63?style=for-the-badge)
-![Problem_Solving](https://img.shields.io/badge/🧩_Problem_Solving-302b63?style=for-the-badge)
+![Teamwork](https://img.shields.io/badge/🤝%20Teamwork-4F46E5?style=for-the-badge)
+![Adaptability](https://img.shields.io/badge/🌊%20Adaptability-0891B2?style=for-the-badge)
+![Time_Management](https://img.shields.io/badge/⏱%20Time%20Management-059669?style=for-the-badge)
+![Growth_Mindset](https://img.shields.io/badge/📈%20Growth%20Mindset-D97706?style=for-the-badge)
+![Clean_Code](https://img.shields.io/badge/✨%20Clean%20Code-7C3AED?style=for-the-badge)
+![Problem_Solving](https://img.shields.io/badge/🧩%20Problem%20Solving-DC2626?style=for-the-badge)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📫 Let's Connect
 
 <div align="center">
 
 <a href="https://linkedin.com/in/aman-pandey-a26b78294/">
-  <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:amanpandey.1205r@gmail.com">
-  <img src="https://img.shields.io/badge/Drop_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/AmanPandey-12/Portfolio">
+  <img src="https://img.shields.io/badge/View%20Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-**Open to:** `Internships` · `Collaborations` · `Open Source` · `Learning Opportunities`
+**Open to:** &nbsp;
+![Internships](https://img.shields.io/badge/Internships-A78BFA?style=flat-square)
+![Collaborations](https://img.shields.io/badge/Collaborations-60A5FA?style=flat-square)
+![Open_Source](https://img.shields.io/badge/Open%20Source-34D399?style=flat-square)
+![Learning](https://img.shields.io/badge/Learning%20Together-F472B6?style=flat-square)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   "Code with clarity. Build with purpose.                ║
-║        Improve 1% every single day."                     ║
-║                              — Aman Pandey               ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
+<br/>
 
-⭐ **If you find my work helpful, star a repo — it means the world!**
+### 💬 Words I Live By
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+> ### *"Code with clarity. Build with purpose.*
+> ### *Improve 1% every single day."*
+>
+> **— Aman Pandey**
+
+<br/>
+
+⭐ **If my work inspires you, drop a star on a repo — it truly means the world!** ⭐
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer"/>
 
 </div>
