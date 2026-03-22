@@ -128,7 +128,7 @@ Personal developer portfolio showcasing my skills, projects, and development jou
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://tic-tac-toe-ashy-delta-12.vercel.app/">
+  <a href="https://tic-tac-toe-aman12.vercel.app/">
     <img src="https://img.shields.io/badge/Live%20Demo-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
