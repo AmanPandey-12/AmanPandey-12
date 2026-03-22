@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Aman%20Pandey&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=🚀%20Software%20Engineer%20in%20the%20Making%20%7C%20DSA%20·%20ML%20·%20Cloud&descAlignY=58&descSize=17&animation=fadeIn"/>
 
 <!-- ══════════════════ TYPING ANIMATION ══════════════════ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=680&lines=👋+Hey+there!+I'm+Aman+Pandey;💻+B.Tech+CSE+%7C+CGPA+8.11;🔍+DSA+%7C+Java+%7C+ML+%7C+Frontend;🚀+Building+toward+High-Impact+Engineering;🌱+Learning+every+single+day...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=680&lines=👋+Hey+there!+I'm+Aman+Pandey;💻+B.Tech+CSE+%7C+CGPA+8.21;🔍+DSA+%7C+Java+%7C+ML+%7C+Frontend;🚀+Building+toward+High-Impact+Engineering;🌱+Learning+every+single+day...)](https://git.io/typing-svg)
 
 <br/>
 
@@ -30,7 +30,7 @@
 
 <img align="right" alt="Coding GIF" width="290" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-&nbsp;&nbsp;🎓 &nbsp; **B.Tech CSE** — Technocrats Institute of Technology, Bhopal &nbsp;|&nbsp; CGPA **8.11**
+&nbsp;&nbsp;🎓 &nbsp; **B.Tech CSE** — Technocrats Institute of Technology, Bhopal &nbsp;|&nbsp; CGPA **8.21**
 
 &nbsp;&nbsp;📍 &nbsp; Based in **Bhopal, India**
 
@@ -95,13 +95,13 @@
 <div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <h3 align="center">🌐 Portfolio Website</h3>
 
 <p align="center">
-  <a href="aman-pandey01.vercel.app">
-    <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://aman-pandey01.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Site-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 </p>
 
@@ -113,16 +113,46 @@ Personal developer portfolio showcasing my skills, projects, and development jou
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 
-✅ Responsive Design &nbsp;&nbsp; ✅ Scroll Animations<br/>
-✅ Mobile-First &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✅ Dark Theme
+✅ Responsive Design<br/>
+✅ Scroll Animations<br/>
+✅ Mobile-First<br/>
+✅ Dark Theme
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+<h3 align="center">🎮 Tic Tac Toe</h3>
+
+<p align="center">
+  <a href="https://github.com/AmanPandey-12/Tic-Tac-Toe-">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://tic-tac-toe-ashy-delta-12.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+A fully interactive Tic Tac Toe game built with clean UI, win detection logic, and smooth gameplay experience.
+
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+✅ 2-Player Mode<br/>
+✅ Win Detection<br/>
+✅ Score Tracking<br/>
+✅ Responsive UI
+
+</td>
+<td width="33%" valign="top">
 
 <h3 align="center">👁️ Face Detection App</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Coming%20Soon-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-In%20Progress-blue?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 Real-time face detection system using computer vision and ML pipeline with live camera feed support.
@@ -133,8 +163,10 @@ Real-time face detection system using computer vision and ML pipeline with live 
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
 </p>
 
-🎥 Real-time Detection &nbsp;&nbsp; 🧠 DNN Model<br/>
-📊 Confidence Scoring &nbsp;&nbsp; 🔲 Bounding Box
+🎥 Real-time Detection<br/>
+🧠 DNN Model<br/>
+📊 Confidence Scoring<br/>
+🔲 Bounding Box
 
 </td>
 </tr>
@@ -192,8 +224,8 @@ Real-time face detection system using computer vision and ML pipeline with live 
 
 <br/>
 
-<!-- Live stat pills — pull directly from GitHub API -->
-![GitHub last commit](https://img.shields.io/github/last-commit/AmanPandey-12/Portfolio?style=flat-square&color=A78BFA&labelColor=0D1117&label=Last%20Commit%20on%20Portfolio)
+<!-- Live stat pills -->
+![GitHub last commit](https://img.shields.io/github/last-commit/AmanPandey-12/Tic-Tac-Toe-?style=flat-square&color=A78BFA&labelColor=0D1117&label=Last%20Commit)
 ![GitHub repo count](https://img.shields.io/badge/dynamic/json?color=A78BFA&labelColor=0D1117&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAmanPandey-12&style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/AmanPandey-12?style=flat-square&color=C084FC&labelColor=0D1117&label=Total%20Stars)
 
@@ -217,7 +249,7 @@ Real-time face detection system using computer vision and ML pipeline with live 
 
 | 🎓 Qualification | 🏛️ Institution | 📊 Score |
 |:----------------|:--------------|:-------:|
-| **B.Tech — Computer Science & Engineering** | Technocrats Institute of Technology, Bhopal | CGPA **8.11** ⭐ |
+| **B.Tech — Computer Science & Engineering** | Technocrats Institute of Technology, Bhopal | CGPA **8.21** ⭐ |
 | **Higher Secondary (12th Grade)** | Vindhya Academy Higher Secondary School | **83%** ✅ |
 
 </div>
@@ -267,7 +299,7 @@ Real-time face detection system using computer vision and ML pipeline with live 
   <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="aman-pandey01.vercel.app">
+<a href="https://aman-pandey01.vercel.app/">
   <img src="https://img.shields.io/badge/View%20Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
