@@ -13,7 +13,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Aman_Pandey12/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/amanpandey01)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanpandey.1205r@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/AmanPandey-12/Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://aman-pandey01.vercel.app/)
 
 <br/>
 
@@ -100,7 +100,7 @@
 <h3 align="center">🌐 Portfolio Website</h3>
 
 <p align="center">
-  <a href="https://github.com/AmanPandey-12/Portfolio">
+  <a href="aman-pandey01.vercel.app">
     <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -267,7 +267,7 @@ Real-time face detection system using computer vision and ML pipeline with live 
   <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/AmanPandey-12/Portfolio">
+<a href="aman-pandey01.vercel.app">
   <img src="https://img.shields.io/badge/View%20Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
